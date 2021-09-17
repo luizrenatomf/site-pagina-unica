@@ -1,0 +1,1 @@
+start C:\Users\Administrador\Desktop\LR\Django1\Scripts\activate.bat
